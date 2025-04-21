@@ -1,7 +1,8 @@
 # git-demo
 
 #### Description
-软件工程实验-Git的基本使用_2021130079王志豪
+软件工程实验-Git的基本使用
+### [查看中文](README.md)
 
 ### Instructions
 First commit
